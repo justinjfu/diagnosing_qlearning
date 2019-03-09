@@ -15,9 +15,6 @@ pip install -r requirements.txt
 sudo apt-get install python-dev
 ```
 
-Download and setup [rlutil](https://github.com/justinjfu/rlutil). Add it to your pythonpath.
-
-
 Compile Cython environments (this must be run from the repo root directory)
 ```
 make build
