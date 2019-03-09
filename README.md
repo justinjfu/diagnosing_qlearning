@@ -1,7 +1,12 @@
 # diagnosing_qlearning
 Diagnosing Q-learning
 
-Code for [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/abs/1902.10250) by Justin Fu*, Aviral Kumar*, Matthew Soh, Sergey Levine.
+This repository contains code for [Diagnosing Bottlenecks in Deep Q-learning Algorithms](https://arxiv.org/abs/1902.10250) by Justin Fu*, Aviral Kumar*, Matthew Soh, Sergey Levine.
+
+This includes:
+- Tabular/discrete environments useful for debugging deep RL algorithms.
+- FQI and Q-iteration solvers.
+
 
 # Setup
 Install dependencies
