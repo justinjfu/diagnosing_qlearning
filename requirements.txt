@@ -1,0 +1,13 @@
+tensorflow
+matplotlib
+six
+scipy
+Cython
+seaborn
+pytorch
+torchvision
+gym
+path.py
+plotly
+pandas
+parameterized
