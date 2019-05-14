@@ -8,6 +8,11 @@ This includes:
 - FQI and Q-iteration solvers.
 
 
+## Colab Notebook
+
+For those who prefer experimenting in Jupyter Notebooks, our algorithm prototyping notebook is available [here](https://drive.google.com/open?id=177mrb9B4rqNrdTLtZSgPRdCnrhVlJdEx) as a Colab notebook. This notebook contains a gridworld implementation, along with FQI and plotting code.
+
+
 # Setup
 Install dependencies
 ```
@@ -30,7 +35,7 @@ Experiment scripts are located in the `scripts` folder. Each script runs a sweep
 
 For example,
 ```
-python scripts/doodad_exact_fqi.py
+python scripts/run_weighted_exact_fqi.py
 ```
 
 # Plotting
